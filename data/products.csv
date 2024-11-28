@@ -1,0 +1,15 @@
+product_name,our_price,category,current_stock,restock_threshold,restock_date
+"Organic Coffee Beans (1lb)",14.99,Beverages,45,25,2024-11-15
+"Premium Green Tea (50 bags)",8.99,Beverages,32,20,2024-11-10
+"Masala Chai Mix (12oz)",9.99,beverages,18,15,2024-11-18
+"Yerba Mate Loose Leaf (1lb)",12.99,Beverages,5,10,2024-11-01
+"Hot Chocolate Mix (1lb)",7.99,Beverages,50,30,11/12/2024
+"Earl Grey Tea (100 bags)",11.99,beverages,28,25,2024-11-14
+"Espresso Beans (1lb)",16.99,Beverages,22,20,2024-11-16
+"Chamomile Tea (30 bags)",6.99,Tea,12,15,2024-11-05
+"Matcha Green Tea Powder (4oz)",19.99,Beverages,8,,2024-11-17
+"Decaf Coffee Beans (1lb)",15.99,Beverages,15,15,2024-11-13
+"Mint Tea (25 bags)",7.49,Beverages,,"out of stock",2024-10-30
+"Instant Coffee (8oz)",11.99,coffee,25,20,2024-11-19
+"Rooibos Tea (40 bags)",,Beverages,30,20,2024-11-08
+"cold brew concentrate",13.99,Beverages,19,15,2024-11-20
